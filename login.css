@@ -1,0 +1,58 @@
+h1 {
+    font-family: Impact;
+    font-size: large;
+    color: #000080;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+
+img{
+    border-radius: 4;
+    float: inline-end;
+    
+}
+
+body{
+    background-image: url(illustration-digital-art-style-with-pottery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.button{
+    color:rgb(12, 12, 12);
+    height: 90px;
+    width: 200px;
+    display: block;
+}
+
+#emailfield{
+    height: 80px;
+    width: 400px;
+    display: block;
+}
+
+#passwordfield{
+    height:80px;
+    width:400px;
+    display: block;
+}
+
+.layout{
+    border:ridge #e7a977 ;
+    height: 600px;
+    width: 800px;
+    margin: 10%;
+    padding: 10%;
+    background-color: white;
+    background-image:url(illustration-digital-art-style-with-pottery\ \(1\).jpg) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div h1{
+    color: black;
+}
+
